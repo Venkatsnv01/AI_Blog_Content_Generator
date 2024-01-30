@@ -1,4 +1,4 @@
-OPENAI_API_KEY = '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'
+OPENAI_API_KEY = ''
 
 class Config(object):
     DEBUG = True
